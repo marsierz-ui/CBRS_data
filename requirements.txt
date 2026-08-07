@@ -1,0 +1,3 @@
+pandas
+yfinance
+# lseg-data  # only needed for tick collection via LSEG Workspace
